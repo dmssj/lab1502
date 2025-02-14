@@ -1,4 +1,4 @@
-using System;   //Базовые понятия языка С#
+using System;
 
 class Program
 {
